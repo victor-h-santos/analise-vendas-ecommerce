@@ -94,7 +94,7 @@ O arquivo `data/vendas_limpo.csv` está pronto para importação direta no Power
 
 ## Dashboard Interativo
 
-🔗 [Ver dashboard completo no Power BI]((https://app.powerbi.com/view?r=eyJrIjoiYzk1ZThmNzMtNDQxMC00Y2FmLTlmMzItZDA2NjA1YjNlZTY4IiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9))
+🔗 [Ver dashboard completo no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYzk1ZThmNzMtNDQxMC00Y2FmLTlmMzItZDA2NjA1YjNlZTY4IiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9)
 
 ---
 *Projeto de portfólio desenvolvido para demonstrar habilidades em tratamento de dados, SQL e construção de dashboards. Disponível para projetos freelance de análise de dados.*
